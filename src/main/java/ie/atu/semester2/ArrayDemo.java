@@ -24,6 +24,7 @@ public class ArrayDemo {
         System.out.println("Element at index 1: " + anArray[1]);
         System.out.println("Element at index 2: " + anArray[2]);
         System.out.println("Element at index 9: " + anArray[9]);
+
     }
 
 }
